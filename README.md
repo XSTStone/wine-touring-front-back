@@ -33,3 +33,9 @@
 
 TODO:
 scientific literature or ready-made data sets for Italian, French, Argentinean wines (country of origin)
+
+### Problems:
+- 所有页面的 暗黑模式 的切换
+- 手写/下载 影响因素展示 的代码 (factor页面的首页)
+- 所有页面的登录按钮
+- knowledge文件夹内的所有代码html内容
